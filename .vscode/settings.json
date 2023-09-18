@@ -1,4 +1,13 @@
 {
+    "window.zoomLevel": 2,
+    "go.formatTool": "goimports",
+    "go.useLanguageServer": true,
+    "files.autoSave": "afterDelay",
+    "git.autofetch": true,
+    "files.associations": {
+        "*.sql": "postgres"
+    },
+    
     "workbench.colorCustomizations": {
         "activityBar.activeBackground": "#cc728d",
         "activityBar.background": "#cc728d",
