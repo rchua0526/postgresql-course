@@ -1,5 +1,5 @@
 ---- PEOPLE ----
-('Ofjwivvhfaki', 'Ncntnns', 'AS', 'Modesto', '2009-09-18 16:39:10', '2019-12-03 16:39:10', '2019-12-03 16:39:10', 2149, '{"Desserts":["yumPbqx","yumVlk","yumHimzc","banana"],"Destinations":["locEnhgn","locLawxgaf","locKohun","Bali"]}'),
+('Ncntnns', 'AS', 'Modesto', '2009-09-18 16:39:10', '2019-12-03 16:39:10', '2019-12-03 16:39:10', 2149, '{"Desserts":["yumPbqx","yumVlk","yumHimzc","banana"],"Destinations":["locEnhgn","locLawxgaf","locKohun","Bali"]}'),
 ('Dxv', 'Ckygbwr', 'DE', 'Providence', '2003-06-29 16:39:10', '2019-12-03 16:39:10', '2019-12-03 16:39:10', 347, '{"Desserts":["yumCck","yumLucgl","yumBwo","ice cream"],"Destinations":["locCewndup","locMl","locZd","Thailand"]}'),
 ('Ladu', 'Gqv', 'NC', 'Aurora', '1962-09-27 16:39:10', '2019-12-03 16:39:10', '2019-12-03 16:39:10', 8002, '{"Desserts":["yumJrqes","yumCj","yumPznegb","strawberries"],"Destinations":["locDumohez","locVxxbvql","locKfpvrid","Hawaii"]}'),
 ('Vhv', 'Wnbedkihdke', 'AS', 'Glendale', '1962-03-25 16:39:10', '2019-12-03 16:39:10', '2019-12-03 16:39:10', 9336, '{"Desserts":["yumVejwbjt","yumLtghnr","yumLvb","cookie"],"Destinations":["locIkebol","locBclgtf","locDqie","Hawaii"]}'),
