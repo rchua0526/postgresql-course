@@ -1,1 +1,0 @@
-SELECT pid AS "one", CAST(pid AS NUMERIC) AS "two" FROM people;
